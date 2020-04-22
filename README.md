@@ -1,2 +1,6 @@
-# Quaren-Ten-Code-Solutions
-Solutions for the 10-day long codathon - Quaren-ten Code by Women Who Code Delhi
+# Quaren-Ten Code Solutions
+
+![Poster](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
+
