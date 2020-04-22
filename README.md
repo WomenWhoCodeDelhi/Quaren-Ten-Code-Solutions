@@ -1,6 +1,6 @@
 # Quaren-Ten Code Solutions
 
-![Poster](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Poster](https://github.com/WomenWhoCodeDelhi/Quaren-Ten-Code-Solutions/blob/master/poster.png)
 
 
 
